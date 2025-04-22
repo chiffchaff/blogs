@@ -178,7 +178,6 @@ Use the challan form from Union Bank (as shown in your images):
 
 * * *
 
-**ChatGPT:**
 
 Here's a **consolidated summary** for **Property Registration and Obtaining the Absolute Sale Deed (ASD)** from **Karnataka Housing Board (KHB)** — specifically for **Suryanagar Phase 3 Block 5 (SN3 B5)**:
 
