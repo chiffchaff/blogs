@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.gitlab.io/blogs/'
+baseURL = 'https://chiffchaff.gitlab.io/blogs/'
 languageCode = 'en-us'
 title = 'My Blog'
 theme = 'PaperMod'
