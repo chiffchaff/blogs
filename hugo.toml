@@ -1,0 +1,33 @@
+baseURL = 'https://yourusername.gitlab.io/blogs/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
+
+# Enable Git info for better last modified times
+enableGitInfo = true
+
+[params]
+  # Enable dark mode toggle
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
